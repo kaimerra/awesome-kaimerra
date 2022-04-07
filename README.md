@@ -12,7 +12,7 @@
 
 ## What is Kaimerra?
 
-*Mission statement*
+Kaimerra’s mission is to break down the walls that separate the myriad universes that we inhabit, allowing people to build their own connections between games, social media presences, and IRL spaces.
 
 - [Website](http://kaimerra.com)
 - [App](https://app.kaimerra.com)
